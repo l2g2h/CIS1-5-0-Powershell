@@ -1,6 +1,5 @@
 ﻿# This script needs to be run by an admin account in your Office 365 tenant
 # This script will create an Azure AD app in your organisation with permission
-# to access resources in yours and your customers' tenants.
    
 $externalCSS = "<link rel=`"stylesheet`" href=`"https://dl.dropbox.com/s/vpx9ysgr11cah4u/reports.css?dl=0`">"
 $yourLogo = "https://url.png"
